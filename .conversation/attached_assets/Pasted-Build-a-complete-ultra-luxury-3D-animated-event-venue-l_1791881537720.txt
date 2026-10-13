@@ -1,0 +1,51 @@
+Build a complete, ultra-luxury, 3D-animated event venue landing page and web application for "Grand Palace Banquet" located in Karachi, using React, Tailwind CSS, Three.js / React Three Fiber, GSAP, and Lucide React Icons.
+
+Here is all the specific business data and styling rules to integrate:
+
+1. BRAND & BUSINESS DETAILS:
+- Name: Grand Palace Banquet
+- Tagline: "Where beautiful beginnings turn into forever. / Royalty at its peak."
+- Address: 42-1/C, Main Shahra-e-Faisal, Block 6, P.E.C.H.S., Karachi
+- Phone: 0324 2886757
+- Rating: 4.5 / 5 (Based on 2,900+ Google Reviews)
+- Special Active Offer Highlight: "✨ 30% OFF on October & November Bookings! Celebrate your special moments at Grand Palace Banquet."
+
+2. LUXURY DESIGN SYSTEM:
+- Theme: Royal Palace aesthetic — Deep Regal Navy / Onyx Black background, Rich Champagne Gold (#D4AF37) accents, Frosted Glass (Glassmorphism) cards, and elegant typography (Playfair Display for headings and Inter for body text).
+
+3. HERO SECTION (Video / 3D Canvas Combo):
+- Background: High-end royal venue video loops or deep dark ambiance with an overlay of floating Three.js golden particles and ambient lighting responding to cursor movement.
+- Main Heading: "Where beautiful beginnings turn into forever."
+- Sub-heading / Trust Badge: ⭐ 4.5 Rating (2,900+ Reviews) | Main Shahra-e-Faisal, PECHS Block 6, Karachi
+- Call to Action Buttons: "Book Your Event" & "Explore Packages"
+- Special Promo Banner: Floating elegant banner highlighting the "30% OFF on Oct & Nov Bookings".
+
+4. QUICK EVENT BOOKING / AVAILABILITY FORM:
+- Interactive form fields: Event Type (Barat, Walima, Mehndi, Corporate, Engagement), Preferred Date, Slot (Day / Night), Guest Count, Phone Number, and "Check Availability" submit button.
+
+5. ABOUT GRAND PALACE & REPUTATION:
+- Highlight their spacious halls, large gatherings capability, courteous staff, stunning custom decor, and family-friendly event hosting.
+- Embed real customer sentiment statistics (4.5 stars, trusted by thousands in Karachi).
+
+6. SIGNATURE FEATURES & AMENITIES GRID:
+- Spacious Grand Halls for royal celebrations.
+- Professional lighting rigs & dreamy glowing setups.
+- Premium in-house catering and custom stage decoration.
+- Dedicated management team ensuring seamless guest experiences.
+
+7. PHOTO & VIDEO GALLERY SECTION:
+- Filterable media grid: [All | Barat | Walima | Mehndi | Corporate | Ambiance].
+- Interactive grid with smooth transitions and click-to-zoom modal lightbox.
+
+8. CLIENT REVIEWS & WORD OF MOUTH:
+- Display authentic Google-style review highlights showing high praise for their service, grandeur, and event management.
+
+9. CONTACT & INTERACTIVE GOOGLE MAPS SECTION:
+- Interactive Contact Form (Name, Phone, Email, Event Type, Message).
+- Direct Click-to-Call button: 0324 2886757.
+- Embedded Google Maps location placeholder for "42-1/C, Main Shahra-e-Faisal, Block 6 P.E.C.H.S., Karachi".
+- Social media links / Facebook community follower highlights (Grand Palace - KHI).
+
+10. PERFORMANCE & RESPONSIVENESS:
+- Fully responsive on mobile, tablet, and desktop.
+- Lightweight 3D code optimization ensuring 60 FPS smooth rendering.

@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Grand Palace Banquet"
+description = "A luxury event venue website for Grand Palace Banquet in Karachi, with event inquiries, venue highlights, gallery browsing, reviews, and contact details."
+version = "1.0.0"
+id = "artifacts/grand-palace-banquet"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25912
+
+[services.development]
+run = "pnpm --filter @workspace/grand-palace-banquet run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/grand-palace-banquet", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/grand-palace-banquet/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25912"
+BASE_PATH = "/"
